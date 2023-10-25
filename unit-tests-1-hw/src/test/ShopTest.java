@@ -1,4 +1,7 @@
-package seminars.first.Shop;
+package test;
+import seminars.first.Shop.Product;
+import seminars.first.Shop.Shop;
+
 import java.util.ArrayList;
 
 import static org.assertj.core.api.Assertions.*;
