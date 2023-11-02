@@ -1,4 +1,4 @@
-package test.seminars.second.hw;
+package seminars.second.hw;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
